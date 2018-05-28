@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "1d8d43545c5694cf1beecfffbc09a901--art-studio-spaces-studio-artist-workspaces.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "1d8d43545c5694cf1beecfffbc09a901--art-studio-spaces-studio-artist-workspaces@2x.png",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "1d8d43545c5694cf1beecfffbc09a901--art-studio-spaces-studio-artist-workspaces@3x.png",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
